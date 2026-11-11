@@ -11,4 +11,4 @@ What a page sends, what a browser builds, and which one you actually need.
 npx @siterender-cc/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://siterender.cc/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
