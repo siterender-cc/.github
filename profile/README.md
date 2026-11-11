@@ -10,5 +10,3 @@ What a page sends, what a browser builds, and which one you actually need.
 ```bash
 npx @siterender-cc/cli fetch https://example.com -o text
 ```
-
-Built on the [Live Web Data API](https://livewebdata.com).
